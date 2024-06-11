@@ -2,7 +2,7 @@
 # Futsal App
 
 Application to order futsal field. 
-This project is also for my youtube content.
+This project is from the following youtube content.
 
 
 
